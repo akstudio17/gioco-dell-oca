@@ -1,3 +1,8 @@
+function toggleZoomScreen() {
+  document.body.style.zoom = "80%";
+}
+toggleZoomScreen();
+
 // Inizializzazione degli elementi della mappa e delle pedine
 let map = document.getElementById("map");
 
