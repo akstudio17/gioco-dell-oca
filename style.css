@@ -15,6 +15,39 @@ body {
   height: 100%;
 }
 
+.paypal{
+  font-size: 23px;
+  font-weight: bold;
+  margin-left: 44%;
+  color: white;
+}
+.linkPaypal{
+  font-weight: bold;
+  color: white;
+  font-size: 25px;
+}
+
+.qrcode{
+  margin-left: 45.5%;
+}
+
+.akstudio{
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  margin-left: 46.5%;
+}
+
+.contacts{
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  margin-left: 43%;
+}
+
+
+
+
 .board {
   height: 1000px;
   width: 1000px;
